@@ -1,0 +1,4 @@
+#export CROSS_COMPILE
+#file writer will provide you the type of the file.
+
+writer: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, BuildID[sha1]=1ec1d546f789f4f8ceb50b3b46b0365cd47f1c71, for GNU/Linux 3.2.0, with debug_info, not stripped
